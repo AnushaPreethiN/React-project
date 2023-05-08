@@ -1,15 +1,15 @@
 {
-  "main.css": "/AnushaPreethiN/React-project/static/css/main.e214a402.chunk.css",
-  "main.js": "/AnushaPreethiN/React-project/static/js/main.a53cde72.chunk.js",
-  "main.js.map": "/AnushaPreethiN/React-project/static/js/main.a53cde72.chunk.js.map",
-  "static/css/1.1ad1f2cd.chunk.css": "/AnushaPreethiN/React-project/static/css/1.1ad1f2cd.chunk.css",
-  "static/js/1.3084e9a2.chunk.js": "/AnushaPreethiN/React-project/static/js/1.3084e9a2.chunk.js",
-  "static/js/1.3084e9a2.chunk.js.map": "/AnushaPreethiN/React-project/static/js/1.3084e9a2.chunk.js.map",
-  "runtime~main.js": "/AnushaPreethiN/React-project/static/js/runtime~main.9bf70ae9.js",
-  "runtime~main.js.map": "/AnushaPreethiN/React-project/static/js/runtime~main.9bf70ae9.js.map",
-  "static/css/main.e214a402.chunk.css.map": "/AnushaPreethiN/React-project/static/css/main.e214a402.chunk.css.map",
-  "static/css/1.1ad1f2cd.chunk.css.map": "/AnushaPreethiN/React-project/static/css/1.1ad1f2cd.chunk.css.map",
-  "index.html": "/AnushaPreethiN/React-project/index.html",
-  "precache-manifest.6cc22605ea31915f8ad32c7c188a1e87.js": "/AnushaPreethiN/React-project/precache-manifest.6cc22605ea31915f8ad32c7c188a1e87.js",
-  "service-worker.js": "/AnushaPreethiN/React-project/service-worker.js"
+  "main.css": "/React-project/static/css/main.e214a402.chunk.css",
+  "main.js": "/React-project/static/js/main.a53cde72.chunk.js",
+  "main.js.map": "/React-project/static/js/main.a53cde72.chunk.js.map",
+  "static/css/1.1ad1f2cd.chunk.css": "/React-project/static/css/1.1ad1f2cd.chunk.css",
+  "static/js/1.7e72ef68.chunk.js": "/React-project/static/js/1.7e72ef68.chunk.js",
+  "static/js/1.7e72ef68.chunk.js.map": "/React-project/static/js/1.7e72ef68.chunk.js.map",
+  "runtime~main.js": "/React-project/static/js/runtime~main.3e8d128a.js",
+  "runtime~main.js.map": "/React-project/static/js/runtime~main.3e8d128a.js.map",
+  "static/css/1.1ad1f2cd.chunk.css.map": "/React-project/static/css/1.1ad1f2cd.chunk.css.map",
+  "static/css/main.e214a402.chunk.css.map": "/React-project/static/css/main.e214a402.chunk.css.map",
+  "index.html": "/React-project/index.html",
+  "precache-manifest.292b09438bfb05543e120005a3f65ea6.js": "/React-project/precache-manifest.292b09438bfb05543e120005a3f65ea6.js",
+  "service-worker.js": "/React-project/service-worker.js"
 }
