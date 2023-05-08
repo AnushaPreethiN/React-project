@@ -1,0 +1,1 @@
+Created a simple React app that uses Firebase authentication to allow users to create an account with their email and password or Google login. Once a user creates an account they can login and display a dashboard page that says 'Hello World'. The 'Hello World' is only visible to logged-in users. Deployed the app.
